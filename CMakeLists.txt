@@ -45,6 +45,7 @@ endif (Boost_FOUND)
 
 add_subdirectory(ql)
 add_subdirectory(Examples)
+add_subdirectory(Personal)
 add_subdirectory(test-suite)
 
 #
